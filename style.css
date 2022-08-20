@@ -1,0 +1,69 @@
+.lead{
+    
+font-size: 50px;
+
+}
+.head{
+    width: 400px;
+}
+.cat{
+   
+    align-items: center;
+}
+.lists {
+    text-decoration: none;
+    list-style: none;
+    color: grey;
+    line-height: 40px;
+    
+    
+}
+.lists :hover{
+    color: black;
+}
+.list-head{
+    list-style: none;
+
+}
+.foot-logos{
+    
+    list-style: none;
+}
+.foot-media{
+    padding-right: 25px;
+    
+}
+.bat{
+    padding-top: 20px;
+}
+.foot-end {
+    
+    font-size: 17px;
+    color: black;
+    padding-right: 20px;
+}
+.foot-end:hover{
+    
+   text-decoration:underline ;
+    
+}
+a{
+    text-decoration: none;
+}
+.foot-last{
+    padding-top: 20px;
+    color: grey;
+    padding-bottom: 25px;
+    
+}
+.space{
+    padding-left: 35px;
+}
+.nav-hov{
+    color: black;
+    font-weight: bold;
+    font-family: Helvetica, Helvetica, Arial, sans-serif;
+}
+.nav-hov:hover:hover{
+   color:#00754a;
+}
